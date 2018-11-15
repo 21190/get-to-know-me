@@ -5,6 +5,10 @@ h1 {
     color: maroon;
     background-color:blue;
     margin-left: 40px;
-    font = Arial;
-} 
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    color: maroon;
+}
+
 
